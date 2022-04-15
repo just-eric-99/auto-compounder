@@ -105,4 +105,4 @@ async function init() {
 
 > #### Demo video
 
-<video src="/Users/eric/Desktop/Screen Recording 2022-04-15 at 9.14.42 PM.mov"></video>
+https://youtu.be/7cXboW-nKBg
