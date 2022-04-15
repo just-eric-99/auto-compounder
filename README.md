@@ -106,3 +106,20 @@ async function init() {
 > #### Demo video
 
 https://youtu.be/7cXboW-nKBg
+
+
+
+
+
+> #### Reference links
+
+```
+https://github.com/pancakeswap/pancake-frontend/blob/master/src/config/constants/farms.ts
+https://api.pancakeswap.info/api/v2/summary
+https://api.pancakeswap.info/api/v2/pairs
+https://api.pancakeswap.info/api/v2/tokens
+https://docs.pancakeswap.finance/code/migration/masterchef-v2
+https://docs.pancakeswap.finance/code/smart-contracts/pancakeswap-exchange/router-v2
+https://docs.pancakeswap.finance/code/smart-contracts/pancakeswap-exchange/router-v2
+```
+
